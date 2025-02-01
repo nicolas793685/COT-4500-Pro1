@@ -7,8 +7,8 @@ Homework (Programming Assignment 1)
 If you haven't already cloned the repository, run:
 
 ```sh
-git clone https://github.com/YOUR_USERNAME/cot-4500-Pro1.git
-cd cot-4500-Pro1
+git clone https://github.com/nicolas793685/COT-4500-Pro1.git
+cd COT-4500-Pro1
 ```
 
 ## Description

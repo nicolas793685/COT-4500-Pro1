@@ -3,7 +3,7 @@ Homework (Programming Assignment 1)
 
 ## Installation and Usage
 
-### **Step 1: Clone the Repository**
+### **First: Clone the Repository**
 If you haven't already cloned the repository, run:
 
 ```sh
